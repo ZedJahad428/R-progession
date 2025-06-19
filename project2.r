@@ -7,8 +7,8 @@ multiplication <- A * B
 division <- A / B
 powerof <- A ^ B
 
-print("A + B = ", addition, '\n')
-print("A - B = ", subtraction, '\n')
-print("A * B = ", multiplication, '\n')
-print("A / B = ", division, '\n')
-print("A ^ B = ", powerof, '\n')
+print(addition)
+print(subtraction)
+print(multiplication)
+print(division)
+print(powerof)
