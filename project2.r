@@ -1,11 +1,11 @@
-A <- 10
-B <- 5
+a <- 10
+b <- 5
 
-addition <- A + B
-subtraction <- A - B
-multiplication <- A * B
-division <- A / B
-powerof <- A ^ B
+addition <- a + b
+subtraction <- a - b
+multiplication <- a * b
+division <- a / b
+powerof <- a ^ b
 
 print(addition)
 print(subtraction)
